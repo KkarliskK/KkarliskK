@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on GripstreetLatvija website together with [![VienkarsiAleksis](https://github.com/vienkarsiAleksis)!<br>I am currently learning react, laravel, and js languages...<br>Fun fact! C is the only programming language that has been around for the longest :D.
+I'm currently working on GripstreetLatvija website together with [VienkarsiAleksis](https://github.com/vienkarsiAleksis)!<br>I am currently learning react, laravel, and js languages...<br>Fun fact! C is the only programming language that has been around for the longest :D.
 
 
 ## 🌐 Socials:
